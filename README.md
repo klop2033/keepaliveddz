@@ -27,7 +27,7 @@
 ---
 
 ### Ответ: 
-![2](scrn/scan 1.png)
-![3](scrn/scan 2.png)
+![2](scrn/scan1.png)
+![3](scrn/scan2.png)
 
 #### scan.sh, keepalived.conf в репозитории.
